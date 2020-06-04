@@ -35,7 +35,8 @@ BSLA, Portuguese, Georgetown University
 
 #
 ## Skill Matrix
-#### Web Technologies
+| Web Technologies | Databases | Java Web | DevOps | Testing | Languages
+|------------------|-----------|----------|--------|---------|----------|
 JavaScript (24 months)  
 HTML5 (24 months)  
 CSS3 (24 months)  
