@@ -35,14 +35,10 @@ BSLA, Portuguese, Georgetown University
 
 #
 ## Skill Matrix
-| Web Technologies | Databases | Java Web | DevOps | Testing | Languages
-|------------------|-----------|----------|--------|---------|----------|
-JavaScript (24 months)  
-HTML5 (24 months)  
-CSS3 (24 months)  
-Angular(6 months)  
-TypeScript (6 months)  
-Vue (6 months)  
+
+| Web Technologies |  JavaScript, HTML5, CSS3, Angular, TypeScript, Vue  |
+| Databases        |  SQL, Postgres, MySQL, Hibernate, JDBC API, Spring Data |
+| Java Web         |  Spring MVC, Spring Boot, Spring Security, Servlet API, Jackson |
 
 #### Relational Databases
 SQL (12 months)  
