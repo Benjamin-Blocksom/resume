@@ -41,21 +41,9 @@ BSLA, Portuguese, Georgetown University
 | **Web Technologies** |  JavaScript, HTML5, CSS3, Angular, TypeScript, Vue  |
 | **Databases**        |  SQL, Postgres, MySQL, Hibernate, JDBC API, Spring Data |
 | **Java Web**         |  Spring MVC, Spring Boot, Spring Security, Servlet API, Jackson |
-| **DevOps**  | Linux, Git, Amazon Web Services, Jenkins, Docker |
-
-#### Testing & Development
-TDD (12 months)  
-Jasmine (8 months)  
-Mockito (3 months)  
-JUnit (6 months)  
-Litmus (8 months)  
-
-#### Programming Languages
-JavaScript (24 months)  
-Java (12 months)  
-Ruby (8 months)  
-TypeScript (3 months)  
-Laravel (3 months)  
+| **DevOps**  | Amazon Web Services (AWS), Google Cloud Linux, Jenkins, Docker, Github |
+|Testing & Development | TDD, Jasmine, Mockito, JUnit, Litmus |
+|**Programming Languages**|JavaScript, Java, Ruby, TypeScript, Laravel |
 
 #
 ## Projects
