@@ -14,18 +14,18 @@ CSS (24 months)
 ## About Me
 Software developer with experience building multi-tiered web applications. Architected service layers in Java with back-end deployment to the cloud on Amazon Web Services (AWS). Created responsive, accessible front-end projects leveraging core web technologies (HTML5, CSS3, JavaScript). Designed seamless UI flows with industry-tested frameworks like Angular, Vue, JQuery, and TypeScript, and CSS post-processors. 
 
-* Developed with *Java*, *Spring*, *PostgreSQL*, *JavaScript*, *TypeScript*, *Angular*, *HTML5*, *CSS3*, *Tomcat*, *Hibernate*, *JUnit*, *Postman*, *Docker*.
-* Setup and Maintained Amazon Web Services: *EC2*, *SES*, *S3*, and *RDS*.
-* Registered, maintained, and updated multiple domain names and validated domains for use in *Google Cloud Platform* and *Amazon SES*.
-* Scripted intermediate and advanced-level *CRUD* operations in *Postgresql* dialect of *SQL*.
-* Design mobile-first, responsive, accessible web pages using Semantic *HTML5* and *CSS* methodologies (BEM, OOCSS, Utility Classes).
-* Demonstrated technical sophistication with *IDEs*, *GIT*, and *Command Line Interfaces*.
-* Added interactivity to web applications using *JavaScript*, including serverless forms on the *JAMStack*.
-* Advocated *Test-Driven Development* and *Agile* methodologies across monolithic and microservice applications with multiple stakeholders.
-* Implemented and oversaw integration testing on *Angular* deployment that used *Typescript* and modular component swapping for a *Single Page Application* (*SPA*).
-* Hosted online applications with *Apache Tomcat Server*.
-* Integrated *DevOps* methodologies for *Continuous Deployment* pipeline with *Jenkins* and *Github*.
-* Deployed various types of *Web Services* leveraging *SOAP* protocols and *RESTful* architecture.
+* Developed with **Java**, **Spring**, **PostgreSQL**, **JavaScript**, **TypeScript**, **Angular**, **HTML5**, **CSS3**, **Tomcat**, **Hibernate**, **JUnit**, **Postman**, **Docker**.
+* Setup and Maintained Amazon Web Services: **EC2**, **SES**, **S3**, and **RDS**.
+* Registered, maintained, and updated multiple domain names and validated domains for use in **Google Cloud Platform** and **Amazon SES**.
+* Scripted intermediate and advanced-level **CRUD** operations in **Postgres** dialect of **SQL**.
+* Design mobile-first, responsive, accessible web pages using Semantic **HTML5** and **CSS** methodologies (BEM, OOCSS, Utility Classes).
+* Demonstrated technical sophistication with **IDEs**, **GIT**, and the **Command Line Interface**.
+* Added interactivity to web applications using **JavaScript**, including serverless forms on the **JAMStack**.
+* Advocated **Test-Driven Development** and **Agile** methodologies across monolithic and microservice applications with multiple stakeholders.
+* Implemented and oversaw integration testing on **Angular** deployment that used **Typescript** and modular component swapping for a **Single Page Application** (**SPA**).
+* Hosted online applications with **Apache Tomcat Server**.
+* Integrated **DevOps** methodologies for **Continuous Deployment** pipeline with **Jenkins** and **Github**.
+* Deployed various types of **Web Services** leveraging **SOAP** protocols and **RESTful** architecture.
 
 #
 ## Education & Certification
@@ -38,30 +38,10 @@ BSLA, Portuguese, Georgetown University
 
 |                  |                                                        |
 | -----------------|--------------------------------------------------------|
-| Web Technologies |  JavaScript, HTML5, CSS3, Angular, TypeScript, Vue  |
-| Databases        |  SQL, Postgres, MySQL, Hibernate, JDBC API, Spring Data |
-| Java Web         |  Spring MVC, Spring Boot, Spring Security, Servlet API, Jackson |
-
-#### Relational Databases
-SQL (12 months)  
-Postgresql(6 months)  
-MySQL(6 months)  
-Hibernate (6 months)  
-Spring Data (6 months)  
-
-#### Java Web
-Spring MVC(4 months)  
-Spring Boot(4 months)  
-Servlet API (4 months)  
-Jackson (4 months)  
-Spring Cloud (3 months)  
-
-#### DevOps
-Linux (24 months)  
-Git (24 months)  
-Amazon Web Services (12 months)  
-Jenkins (4 months)  
-Docker (3 months)  
+| **Web Technologies** |  JavaScript, HTML5, CSS3, Angular, TypeScript, Vue  |
+| **Databases**        |  SQL, Postgres, MySQL, Hibernate, JDBC API, Spring Data |
+| **Java Web**         |  Spring MVC, Spring Boot, Spring Security, Servlet API, Jackson |
+| **DevOps**  | Linux, Git, Amazon Web Services, Jenkins, Docker |
 
 #### Testing & Development
 TDD (12 months)  
