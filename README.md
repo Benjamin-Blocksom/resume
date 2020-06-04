@@ -6,7 +6,7 @@ benjamin.blocksom@gmail.com | +1 (305) 792-8375
 ## About Me
 Software developer with experience building multi-tiered web applications. Architected service layers in Java with back-end deployment to the cloud on Amazon Web Services (AWS). Created responsive, accessible front-end projects leveraging core web technologies (HTML5, CSS3, JavaScript). Designed seamless UI flows with industry-tested frameworks like Angular, Vue, JQuery, and TypeScript, and CSS post-processors. 
 
-* Developed with **Java**, **Spring**, **PostgreSQL**, **JavaScript**, **TypeScript**, **Angular**, **HTML5**, **CSS3**, **Tomcat**, **Hibernate**, **JUnit**, **Postman**, **Docker**.
+* Developed with **Java**, **PosgreSQL**, **JavaScript**, **TypeScript**, **Angular**, **HTML5**, **CSS3**, **Spring**, **Tomcat**, **Hibernate**, **JUnit**, **Postman**, **Docker**.
 * Setup and Maintained Amazon Web Services: **EC2**, **SES**, **S3**, and **RDS**.
 * Registered, maintained, and updated multiple domain names and validated domains for use in **Google Cloud Platform** and **Amazon SES**.
 * Scripted intermediate and advanced-level **CRUD** operations in **Postgres** dialect of **SQL**.
