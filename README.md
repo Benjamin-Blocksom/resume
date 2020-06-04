@@ -36,6 +36,7 @@ BSLA, Portuguese, Georgetown University
 #
 ## Skill Matrix
 
+| -----------------|--------------------------------------------------------|
 | Web Technologies |  JavaScript, HTML5, CSS3, Angular, TypeScript, Vue  |
 | Databases        |  SQL, Postgres, MySQL, Hibernate, JDBC API, Spring Data |
 | Java Web         |  Spring MVC, Spring Boot, Spring Security, Servlet API, Jackson |
