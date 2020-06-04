@@ -3,14 +3,6 @@ Full-stack Web Developer
 benjamin.blocksom@gmail.com | +1 (305) 792-8375
 
 #
-## Industry Equivalency
-Java (12 months)
-SQL (12 months)
-JavaScript (24 months)
-HTML (24 months)
-CSS (24 months)
-
-#
 ## About Me
 Software developer with experience building multi-tiered web applications. Architected service layers in Java with back-end deployment to the cloud on Amazon Web Services (AWS). Created responsive, accessible front-end projects leveraging core web technologies (HTML5, CSS3, JavaScript). Designed seamless UI flows with industry-tested frameworks like Angular, Vue, JQuery, and TypeScript, and CSS post-processors. 
 
@@ -42,7 +34,7 @@ BSLA, Portuguese, Georgetown University
 | **Databases**        |  SQL, Postgres, MySQL, Hibernate, JDBC API, Spring Data |
 | **Java Web**         |  Spring MVC, Spring Boot, Spring Security, Servlet API, Jackson |
 | **DevOps**  | Amazon Web Services (AWS), Google Cloud Linux, Jenkins, Docker, Github |
-|Testing & Development | TDD, Jasmine, Mockito, JUnit, Litmus |
+|**Testing**| TDD, JUnit, Jasmine, Mockito, JUnit, Litmus |
 |**Programming Languages**|JavaScript, Java, Ruby, TypeScript, Laravel |
 
 #
