@@ -9,7 +9,8 @@ Software developer with experience building multi-tiered web applications. Archi
 * Developed with **Java**, **PosgreSQL**, **JavaScript**, **TypeScript**, **Angular**, **HTML5**, **CSS3**, **Spring**, **Tomcat**, **Hibernate**, **JUnit**, **Postman**, **Docker**.
 * Setup and Maintained Amazon Web Services: **EC2**, **SES**, **S3**, and **RDS**.
 * Registered, maintained, and updated multiple domain names and validated domains for use in **Google Cloud Platform** and **Amazon SES**.
-* Scripted intermediate and advanced-level **CRUD** operations in **Postgres** dialect of **SQL**.
+* Scripted intermediate and advanced-level **CRUD** operations in **Postgres** dialect of **SQL**
+* Created RESTful API for **CRM** with **node.js**, **MongoDB** and **Express** 
 * Design mobile-first, responsive, accessible web pages using Semantic **HTML5** and **CSS** methodologies (BEM, OOCSS, Utility Classes).
 * Demonstrated technical sophistication with **IDEs**, **GIT**, and the **Command Line Interface**.
 * Added interactivity to web applications using **JavaScript**, including serverless forms on the **JAMStack**.
