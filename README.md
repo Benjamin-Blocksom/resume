@@ -32,7 +32,7 @@ BSLA, Portuguese, Georgetown University
 |                  |                                                        |
 | -----------------|--------------------------------------------------------|
 | **Web Technologies** |  JavaScript, HTML5, CSS3, Angular, TypeScript, Vue  |
-| **Databases**        |  SQL, Postgres, MySQL, Hibernate, JDBC API, Spring Data |
+| **Databases**        |  SQL, Postgres, MySQL, Hibernate, JDBC API, Spring Data, MongoDB, Express |
 | **Java Web**         |  Spring MVC, Spring Boot, Spring Security, Servlet API, Jackson |
 | **DevOps**  | Amazon Web Services (AWS), Google Cloud Linux, Jenkins, Docker, Github |
 |**Testing**| TDD, JUnit, Jasmine, Mockito, JUnit, Litmus |
@@ -95,4 +95,4 @@ In-house Expense Reimbursement System (ERS) to manage the process of reimbursing
 * Tracked and logged project version with Git.
 
 #### Technologies
-Java, SQL, JavaScript, HTML, CSS, Servlets, JDBC, PostgreSQL, Agile, TDD
+Java, SQL, NoSQL, JavaScript, HTML, CSS, Servlets, JDBC, PostgreSQL, Agile, TDD
